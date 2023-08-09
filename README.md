@@ -1,5 +1,5 @@
 <!-- Add a banner image here -->
-![Banner](https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFnFybWjbE&#x2F;view?embed)
+![Banner]([https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFnFybWjbE&#x2F;view?embed](https://www.canva.com/design/DAFnFybWjbE/9QFCSicRRuD-57YZms-5uA/view?utm_content=DAFnFybWjbE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 # Hello, I'm Fahri Putra! 👋
 
