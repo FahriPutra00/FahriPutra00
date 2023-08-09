@@ -22,13 +22,13 @@ Here are some of the tools and techniques I use to unravel the world of data:
 - Data Manipulation: Python (Pandas, NumPy)
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Jupyter Notebooks for interactive analysis
-- ... (Add any other tools you're familiar with)
+- <i class="bi bi-tools"></i> ... (Add any other tools you're familiar with)
 
 ## Let's Connect!
 
 If you share my enthusiasm for data or have interesting datasets to explore together, let's connect! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/fahriputra)
+- <i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/fahriputra)
 
 Feel free to explore my repositories to see some of my data-driven projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out!
 
