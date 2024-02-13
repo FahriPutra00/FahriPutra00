@@ -26,8 +26,8 @@ Here are some of the tools and techniques I use to unravel the world of data:
 - Keras,SKLearn,TF for ML Modelling
 
 ## Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
+<p align="center">
+<a href="https://github.com/FahriPutra00/FahriPutra00">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&theme=algolia"/>
 </a>
