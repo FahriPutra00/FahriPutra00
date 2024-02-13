@@ -36,8 +36,14 @@ Here are some of the tools and techniques I use to unravel the world of data:
 ## Let's Connect!
 
 If you share my enthusiasm for data or have interesting datasets to explore together, let's connect! You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/fahriputra)
+<p> 
+  <a href="https://www.linkedin.com/in/fahriputra/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/fahri.ph/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
 
 Feel free to explore my repositories to see some of my data-driven projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out!
 
