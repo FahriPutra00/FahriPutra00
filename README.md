@@ -8,6 +8,7 @@ I'm a data enthusiast with a strong passion for exploring and visualizing data. 
 ## Introduction
 
 My fascination with data has led me to dive deep into various datasets, uncovering stories and trends that are hidden within the numbers. I believe that data has the power to transform information into knowledge and drive informed decision-making.
+Currently im working on Bangkit Academy - Machine Learning Path Batch 1 2024. As an Informatics Student and Bangkit Cohort i love learning new things, improving my skills and my experiences.
 
 ## Exploring Data
 
@@ -24,6 +25,14 @@ Here are some of the tools and techniques I use to unravel the world of data:
 - Jupyter Notebooks for interactive analysis
 - Keras,SKLearn,TF for ML Modelling
 
+## Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&theme=algolia"/>
+</a>
+</p>
+
 ## Let's Connect!
 
 If you share my enthusiasm for data or have interesting datasets to explore together, let's connect! You can find me on:
@@ -31,9 +40,6 @@ If you share my enthusiasm for data or have interesting datasets to explore toge
 - [LinkedIn](https://www.linkedin.com/in/fahriputra)
 
 Feel free to explore my repositories to see some of my data-driven projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out!
-
-Looking forward to connecting with fellow data enthusiasts!
-
 
 <!--
 **FahriPutra00/FahriPutra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
