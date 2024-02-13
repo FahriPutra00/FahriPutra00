@@ -28,8 +28,10 @@ Here are some of the tools and techniques I use to unravel the world of data:
 ## Github Statistic
 <p align="center">
 <a href="https://github.com/FahriPutra00/FahriPutra00">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FahriPutra00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FahriPutra00&theme=algolia"/> -->
 </a>
 </p>
 
